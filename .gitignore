@@ -1,4 +1,5 @@
 *.o
+*.so
 *.obs
 *.ini
 *.local
